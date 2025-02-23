@@ -1,20 +1,22 @@
-# 小红书直播自动交互工具
+# Xiaohongshu Live Auto Interaction
 
-这是一个基于小红书直播功能的自动化交互工具，旨在实现直播间的自动操作，包括发帖、点赞、关注、切换直播间以及发布评论等功能。本项目分为基础、中等和进阶三个难度级别，逐步实现更复杂的自动化任务。
+This project automates user interactions within Xiaohongshu (Little Red Book) live streams. It includes features ranging from basic tasks like auto-posting to advanced functionalities like automated commenting, designed for testing, research, or personal experimentation.
 
-## 功能概览
+## Features
 
-### 基础功能
-- 打开小红书APP，进入指定直播间。
-- 编辑文本，实现自动发帖。
+### Basic Features
+- **Launch and Enter Live Room**: Open the Xiaohongshu app and join a specific live stream.
+- **Auto-Post Text**: Edit and automatically send text posts in the live room.
 
-### 中等功能
-- 自动滑屏切换直播间，支持快捷点赞和关注。
-- 直播间自动点赞，进入任意直播间后进行多次点赞。
+### Intermediate Features
+- **Auto-Swipe Live Rooms**: Seamlessly switch between live streams by scrolling.
+- **Quick Like and Follow**: Execute rapid likes and follows in live rooms.
+- **Auto-Like Functionality**: Enter any live room and perform a set number of likes.
 
-### 进阶功能
-- 直播间自动发评论，进入任意直播间后发布若干条评论。
+### Advanced Features
+- **Auto-Comment Functionality**: Join any live room and post a predefined number of comments.
 
-## 使用场景
-- 自动化测试小红书直播功能。
-- 提升用户互动效率（仅限学习和研究用途）。
+## Use Cases
+- Automating repetitive tasks in Xiaohongshu live streams.
+- Simulating user behavior for app testing or data collection.
+- Exploring mobile app automation techniques.
